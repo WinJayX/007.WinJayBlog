@@ -30,7 +30,7 @@ spring:
 halo:
 
   # Your admin client path is https://your-domain/{admin-path}
-  admin-path: winjay
+  admin-path: admin-path
 
   # memory or level
   cache: memory
