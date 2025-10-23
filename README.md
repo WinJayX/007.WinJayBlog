@@ -25,3 +25,10 @@
 - 喜欢捣鼓 Linux,玩玩树莓派、熟练运用 Shell
 - (如果需要联系，直接留言即可，会有邮件通知的)
 
+
+---
+
+![GitHub stars](https://img.shields.io/github/stars/WinJayX/007.WinJayBlog?style=social)
+![GitHub forks](https://img.shields.io/github/forks/WinJayX/007.WinJayBlog?style=social)
+
+⭐ If you found this project helpful, please give it a star!
